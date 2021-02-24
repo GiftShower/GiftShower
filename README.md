@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to GiftShower's Github</h1>
-<h3 align="center">A 16-year old student from Korea. Studying to be a game DEV in the future.</h3>
+<h3 align="center">A 14-year old student from Korea. Studying to be a game DEV in the future.</h3>
 
 - 🔭 I’m currently working on **my first unity project.**
 

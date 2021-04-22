@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Discord Bot**
 
-- 🌱 I’m currently learning **Kotlin, ZBrush**
+- 🌱 I’m currently learning **Kotlin, ZBrush, SQL**
 
 
 <h3 align="left">Languages and Tools:</h3>

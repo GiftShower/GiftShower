@@ -17,5 +17,5 @@
 | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 
 ### Working on
-- eON Programming Language
+- eON Language
 - Personal Projects
